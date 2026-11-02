@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Lab Class</string>
+    <string name="app_title">My First Android App</string>
+    <string name="hint_enter_name">Enter your name</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_clear">Clear</string>
+    <string name="empty_name_error">Please enter your name</string>
+    <string name="preview_note">Example preview — the actual app runs on your selected Android device.</string>
+</resources>
